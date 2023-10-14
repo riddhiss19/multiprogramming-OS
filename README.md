@@ -1,6 +1,4 @@
 # Multiprogramming operating-system using java
-# designed by: Group 7(CS-SEDA)
-
 
 With Java, we created this multiprogramming operating system.
 We can give it instructions in code to print in any shape, carry out mathematical operations, or reverse strings.
