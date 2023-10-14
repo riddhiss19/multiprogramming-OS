@@ -1,0 +1,280 @@
+JOB ID :2
+Out Of Data 
+IC     :1
+IR      :GD20
+SI     :0
+PI     :0
+TL     :0
+TLL     :4
+TTC     :2
+LLC     :0
+TTL     :16
+
+
+NOT
+JOB ID :17
+Line Limit Exist 
+IC     :9
+IR      :PD30
+SI     :0
+PI     :0
+TL     :0
+TLL     :1
+TTC     :13
+LLC     :2
+TTL     :20
+
+
+
+
+JOB ID :1
+Time Limit Exist 
+IC     :1
+IR      :GD10
+SI     :0
+PI     :0
+TL     :0
+TLL     :1
+TTC     :2
+LLC     :0
+TTL     :1
+
+
+
+
+8
+7
+6
+JOB ID :3
+NO Error 
+IC     :7
+IR      :H   
+SI     :3
+PI     :0
+TL     :0
+TLL     :3
+TTC     :10
+LLC     :3
+TTL     :10
+
+
+
+
+JOB ID :17
+Opration Code Error 
+IC     :1
+IR      :GC20
+SI     :0
+PI     :1
+TL     :0
+TLL     :2
+TTC     :0
+LLC     :0
+TTL     :10
+
+
+
+
+NOT                                     
+JOB ID :18
+Time Limit Exist 
+IC     :9
+IR      :PD30
+SI     :2
+PI     :0
+TL     :2
+TLL     :2
+TTC     :12
+LLC     :1
+TTL     :10
+
+
+
+
+H                                       
+JOB ID :1
+NO Error 
+IC     :11
+IR      :H   
+SI     :3
+PI     :0
+TL     :0
+TLL     :3
+TTC     :13
+LLC     :1
+TTL     :20
+
+
+
+
+JOB ID :2
+Out Of Data 
+IC     :1
+IR      :GD20
+SI     :0
+PI     :0
+TL     :0
+TLL     :4
+TTC     :2
+LLC     :0
+TTL     :16
+
+
+NOT
+JOB ID :17
+Line Limit Exist 
+IC     :9
+IR      :PD30
+SI     :0
+PI     :0
+TL     :0
+TLL     :1
+TTC     :13
+LLC     :2
+TTL     :20
+
+
+
+
+JOB ID :1
+Time Limit Exist 
+IC     :1
+IR      :GD10
+SI     :0
+PI     :0
+TL     :0
+TLL     :1
+TTC     :2
+LLC     :0
+TTL     :1
+
+
+
+
+8
+7
+6
+JOB ID :3
+NO Error 
+IC     :7
+IR      :H   
+SI     :3
+PI     :0
+TL     :0
+TLL     :3
+TTC     :10
+LLC     :3
+TTL     :10
+
+
+
+
+JOB ID :17
+Opration Code Error 
+IC     :1
+IR      :GC20
+SI     :0
+PI     :1
+TL     :0
+TLL     :2
+TTC     :0
+LLC     :0
+TTL     :10
+
+
+
+
+JOB ID :2
+Out Of Data 
+IC     :1
+IR      :GD20
+SI     :0
+PI     :0
+TL     :0
+TLL     :4
+TTC     :2
+LLC     :0
+TTL     :16
+
+
+NOT
+JOB ID :17
+Line Limit Exist 
+IC     :9
+IR      :PD30
+SI     :0
+PI     :0
+TL     :0
+TLL     :1
+TTC     :13
+LLC     :2
+TTL     :20
+
+
+
+
+JOB ID :1
+Time Limit Exist 
+IC     :1
+IR      :GD10
+SI     :0
+PI     :0
+TL     :0
+TLL     :1
+TTC     :2
+LLC     :0
+TTL     :1
+
+
+
+
+8
+7
+6
+JOB ID :3
+NO Error 
+IC     :7
+IR      :H   
+SI     :3
+PI     :0
+TL     :0
+TLL     :3
+TTC     :10
+LLC     :3
+TTL     :10
+
+
+
+
+JOB ID :17
+Opration Code Error 
+IC     :1
+IR      :GC20
+SI     :0
+PI     :1
+TL     :0
+TLL     :2
+TTC     :0
+LLC     :0
+TTL     :10
+
+
+
+
+NOT                                     
+JOB ID :18
+NO Error 
+IC     :10
+IR      :H   
+SI     :3
+PI     :0
+TL     :0
+TLL     :2
+TTC     :13
+LLC     :1
+TTL     :50
+
+
+
+
+H                                       
